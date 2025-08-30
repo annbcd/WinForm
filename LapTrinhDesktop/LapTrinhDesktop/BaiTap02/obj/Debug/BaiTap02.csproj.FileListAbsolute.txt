@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\bin\Debug\BaiTap02.exe.config
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\bin\Debug\BaiTap02.exe
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\bin\Debug\BaiTap02.pdb
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.frmBai1.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.frmChinh.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.Properties.Resources.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.exe
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.pdb
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.exe.config
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.frmBai2.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTap02\obj\Debug\BaiTap02.frmBai3.resources

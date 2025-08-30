@@ -1,0 +1,22 @@
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\bin\Debug\BaiaThucHanh.exe.config
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\bin\Debug\BaiaThucHanh.exe
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\bin\Debug\BaiaThucHanh.pdb
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.csproj.AssemblyReference.cache
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.MainForm.resources
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.Properties.Resources.resources
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.csproj.GenerateResource.cache
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.exe
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.pdb
+C:\Users\Phamm\source\repos\BaiaThucHanh\BaiaThucHanh\obj\Debug\BaiaThucHanh.exe.config
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\bin\Debug\BaiaThucHanh.exe.config
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\bin\Debug\BaiaThucHanh.exe
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\bin\Debug\BaiaThucHanh.pdb
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.csproj.AssemblyReference.cache
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.exe.config
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.MainForm.resources
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.Properties.Resources.resources
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.csproj.GenerateResource.cache
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.exe
+C:\Users\Phamm\Downloads\BTTongHop_Solution\Bài 2\BaiaThucHanh\obj\Debug\BaiaThucHanh.pdb
