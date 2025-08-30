@@ -17,10 +17,7 @@ namespace BaiTapThietKeForm
             InitializeComponent();
         }
 
-        private void lêPhạmMiToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void tsmibai1_Click(object sender, EventArgs e)
         {
@@ -38,6 +35,11 @@ namespace BaiTapThietKeForm
         {
             var form = new FormBaiTap3();
             form.ShowDialog();
+        }
+
+        private void FormChinh_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

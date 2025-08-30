@@ -48,5 +48,10 @@ namespace BaiTapThietKeForm
             int soTien = int.Parse(txtDonGia.Text) * int.Parse(txtSoLuong.Text);
             lbSotien.Text = soTien.ToString();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

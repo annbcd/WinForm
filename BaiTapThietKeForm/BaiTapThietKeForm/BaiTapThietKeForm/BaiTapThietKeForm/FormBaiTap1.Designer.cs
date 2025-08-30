@@ -31,9 +31,9 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormBaiTap1));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.GRChonmau = new System.Windows.Forms.GroupBox();
-            this.rdXanh = new System.Windows.Forms.RadioButton();
-            this.rdDo = new System.Windows.Forms.RadioButton();
             this.rdTrang = new System.Windows.Forms.RadioButton();
+            this.rdDo = new System.Windows.Forms.RadioButton();
+            this.rdXanh = new System.Windows.Forms.RadioButton();
             this.label1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -50,12 +50,12 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(44, 104);
+            this.pictureBox1.Location = new System.Drawing.Point(63, 116);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(274, 184);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.Size = new System.Drawing.Size(267, 168);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // GRChonmau
             // 
@@ -69,18 +69,16 @@
             this.GRChonmau.TabStop = false;
             this.GRChonmau.Text = "Chọn màu";
             // 
-            // rdXanh
+            // rdTrang
             // 
-            this.rdXanh.AutoSize = true;
-            this.rdXanh.Checked = true;
-            this.rdXanh.Location = new System.Drawing.Point(44, 46);
-            this.rdXanh.Name = "rdXanh";
-            this.rdXanh.Size = new System.Drawing.Size(58, 20);
-            this.rdXanh.TabIndex = 0;
-            this.rdXanh.TabStop = true;
-            this.rdXanh.Text = "Xanh";
-            this.rdXanh.UseVisualStyleBackColor = true;
-            this.rdXanh.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            this.rdTrang.AutoSize = true;
+            this.rdTrang.Location = new System.Drawing.Point(44, 122);
+            this.rdTrang.Name = "rdTrang";
+            this.rdTrang.Size = new System.Drawing.Size(64, 20);
+            this.rdTrang.TabIndex = 2;
+            this.rdTrang.Text = "Trắng";
+            this.rdTrang.UseVisualStyleBackColor = true;
+            this.rdTrang.CheckedChanged += new System.EventHandler(this.rdTrang_CheckedChanged);
             // 
             // rdDo
             // 
@@ -93,16 +91,18 @@
             this.rdDo.UseVisualStyleBackColor = true;
             this.rdDo.CheckedChanged += new System.EventHandler(this.rdDo_CheckedChanged);
             // 
-            // rdTrang
+            // rdXanh
             // 
-            this.rdTrang.AutoSize = true;
-            this.rdTrang.Location = new System.Drawing.Point(44, 122);
-            this.rdTrang.Name = "rdTrang";
-            this.rdTrang.Size = new System.Drawing.Size(64, 20);
-            this.rdTrang.TabIndex = 2;
-            this.rdTrang.Text = "Trắng";
-            this.rdTrang.UseVisualStyleBackColor = true;
-            this.rdTrang.CheckedChanged += new System.EventHandler(this.rdTrang_CheckedChanged);
+            this.rdXanh.AutoSize = true;
+            this.rdXanh.Checked = true;
+            this.rdXanh.Location = new System.Drawing.Point(44, 46);
+            this.rdXanh.Name = "rdXanh";
+            this.rdXanh.Size = new System.Drawing.Size(58, 20);
+            this.rdXanh.TabIndex = 0;
+            this.rdXanh.TabStop = true;
+            this.rdXanh.Text = "Xanh";
+            this.rdXanh.UseVisualStyleBackColor = true;
+            this.rdXanh.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label1
             // 

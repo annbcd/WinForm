@@ -57,8 +57,8 @@
             this.tsmibai2,
             this.tsmibai3});
             this.ToolStripMenuItem.Name = "ToolStripMenuItem";
-            this.ToolStripMenuItem.Size = new System.Drawing.Size(144, 24);
-            this.ToolStripMenuItem.Text = " Lê Phạm Mi Đoan";
+            this.ToolStripMenuItem.Size = new System.Drawing.Size(127, 24);
+            this.ToolStripMenuItem.Text = "Võ Thị Minh Ân ";
             // 
             // tsmibai1
             // 
@@ -99,6 +99,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FormChinh";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.FormChinh_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

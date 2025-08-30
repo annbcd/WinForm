@@ -25,11 +25,13 @@ D:\Thư mục mới\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\D
 D:\Thư mục mới\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
 D:\Thư mục mới\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.FormBaiTap3.resources
 D:\Thư mục mới\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe.config
+C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe.config
+C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
-C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
-C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe.config
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.FormBaiTap1.resources
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.FormBaiTap2.resources
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.FormBaiTap3.resources
@@ -37,5 +39,3 @@ C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
 C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
-C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
-C:\Users\Phamm\Downloads\BTTongHop_Solution\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
