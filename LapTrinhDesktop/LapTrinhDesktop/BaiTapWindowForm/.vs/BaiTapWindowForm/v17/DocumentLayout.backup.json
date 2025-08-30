@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\BaiTapWindowForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7786795-E999-47CB-B160-4A8974FF2808}|..\\Baitap04\\Baitap04.csproj|c:\\users\\hp\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\laptrinhdesktop\\baitap04\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7786795-E999-47CB-B160-4A8974FF2808}|..\\Baitap04\\Baitap04.csproj|c:\\users\\hp\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\laptrinhdesktop\\baitap04\\chaohoivatimso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7786795-E999-47CB-B160-4A8974FF2808}|..\\Baitap04\\Baitap04.csproj|c:\\users\\hp\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\laptrinhdesktop\\baitap04\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7786795-E999-47CB-B160-4A8974FF2808}|..\\Baitap04\\Baitap04.csproj|c:\\users\\hp\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\laptrinhdesktop\\baitap04\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7786795-E999-47CB-B160-4A8974FF2808}|..\\Baitap04\\Baitap04.csproj|c:\\users\\hp\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\laptrinhdesktop\\baitap04\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBai3.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmBai3.cs",
+              "RelativeDocumentMoniker": "..\\Baitap04\\frmBai3.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmBai3.cs",
+              "RelativeToolTip": "..\\Baitap04\\frmBai3.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T08:19:03.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChaoHoiVaTimSo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\ChaoHoiVaTimSo.cs",
+              "RelativeDocumentMoniker": "..\\Baitap04\\ChaoHoiVaTimSo.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\ChaoHoiVaTimSo.cs",
+              "RelativeToolTip": "..\\Baitap04\\ChaoHoiVaTimSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T08:03:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBai3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmBai3.cs",
+              "RelativeDocumentMoniker": "..\\Baitap04\\frmBai3.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmBai3.cs [Design]",
+              "RelativeToolTip": "..\\Baitap04\\frmBai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T08:05:37.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmChinh.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmChinh.cs",
+              "RelativeDocumentMoniker": "..\\Baitap04\\frmChinh.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmChinh.cs",
+              "RelativeToolTip": "..\\Baitap04\\frmChinh.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T07:29:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmChinh.cs",
+              "RelativeDocumentMoniker": "..\\Baitap04\\frmChinh.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\LapTrinhDesktop\\Baitap04\\frmChinh.cs [Design]",
+              "RelativeToolTip": "..\\Baitap04\\frmChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:48:56.963Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

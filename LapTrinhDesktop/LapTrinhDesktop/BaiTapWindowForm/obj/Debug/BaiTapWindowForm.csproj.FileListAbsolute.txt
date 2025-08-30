@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.exe.config
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.exe
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.pdb
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai1.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmChinh.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.Properties.Resources.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.exe
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.pdb
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai2.resources
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.exe.config
+C:\Users\HP\OneDrive\ドキュメント\LapTrinhDesktop\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai3.resources
